@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus9_WebAPIHttpClientReact", "Harjoitus9_WebAPIHttpClientReact.csproj", "{981FDA20-40AF-49E4-ADBD-40C62A47CE95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{981FDA20-40AF-49E4-ADBD-40C62A47CE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981FDA20-40AF-49E4-ADBD-40C62A47CE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981FDA20-40AF-49E4-ADBD-40C62A47CE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981FDA20-40AF-49E4-ADBD-40C62A47CE95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5606BE7C-5CD6-4070-A539-755FEE912A2F}
+	EndGlobalSection
+EndGlobal
